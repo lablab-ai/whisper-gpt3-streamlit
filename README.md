@@ -16,6 +16,9 @@ streamlit run app.py
 streamlit run app.py --server.maxUploadSize=1028
 ```
 
+## How to start from here?
+
+Go to [this](https://github.com/lablab-ai/whisper-gpt3-streamlit/blob/main/app.py#L104) line in app.py. Here you can modify the prompt to your needs. You can use the OpenAI Playground to test these first [here](https://beta.openai.com/playground?lang=python)
 ---
 
 [![Artificial Intelligence Hackathons, tutorials and Boilerplates](https://storage.googleapis.com/lablab-static-eu/images/github/lablab-banner.jpg)](https://lablab.ai)
