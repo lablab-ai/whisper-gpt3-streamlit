@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/64021988/195591355-f1ff7dd9-7762-42ce-a8e4-9f0b7bb9f7c1.png)
+
+
 # Whisper in combination with GPT-3 and Streamlit 
 
 upload a audio file to generate a transcript and then use GPT-3 to classify the transcripts sentiment.
