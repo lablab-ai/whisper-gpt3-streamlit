@@ -22,6 +22,7 @@ streamlit run app.py --server.maxUploadSize=1028
 ## How to start from here?:
 
 Create a .env file in the root of the project and add your OpenAI GPT3 Key like this: OPENAI_API_KEY="sk-4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx5"
+
 Go to [this](https://github.com/lablab-ai/whisper-gpt3-streamlit/blob/main/app.py#L104) line in app.py. Here you can modify the prompt to your needs. You can use the OpenAI Playground to test these first [here](https://beta.openai.com/playground?lang=python)
 
 
